@@ -2,7 +2,7 @@
 
 I'm an engineering manager with entrepreneurial mindset and computer science background.
 
-I currently work at @loveholidays, changing travel industry for better.
+I currently work at (@loveholidays)[https://tech.loveholidays.com/], changing travel industry for better.
 
 Get in touch:
 
